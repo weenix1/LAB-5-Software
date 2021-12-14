@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WindFarmTable
+comment0.text=\n\ Write\ a\ description\ of\ class\ WindFarmTable\ here.\n\n\ @author\ (Hilary\ Ogalagu)\n\ @version\ (15.04.2020)\n
+comment1.params=
+comment1.target=WindFarmTable()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ WindFarmTable\n
+comment2.params=powerStation
+comment2.target=void\ addPowerStation(IWindFarm)
+comment2.text=\n\ add\ some\ power\ stations\ to\ this\ windFarm's\ accumulated\ power\ station\n
+comment3.params=
+comment3.target=double\ getTotalPower()
+comment3.text=\n\ add\ automatically\ the\ total\ power\ of\ the\ windfarm\ \n\ @\ param\ returns\ sum\ of\ power\ of\ all\ windFarms\n
+comment4.params=
+comment4.target=void\ printTable()
+comment4.text=\n\ Prints\ the\ list\ of\ the\ windFarm\ in\ a\ formated\ form\n
+numComments=5

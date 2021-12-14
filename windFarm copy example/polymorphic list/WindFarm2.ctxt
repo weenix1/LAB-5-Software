@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=WindFarm2
+comment0.text=\n\ WindFarm\n\ \n\ @author\ shinhyeok\ Kang\n\ @version\ 2020.04.01\n
+comment1.params=name\ country\ capacity\ numberTurbines\ year
+comment1.target=WindFarm2(java.lang.String,\ java.lang.String,\ double,\ int,\ int)
+comment1.text=\n\ WindFarm\ \uD074\uB798\uC2A4\uC758\ \uAC1D\uCCB4\ \uC0DD\uC131\uC790\n
+comment2.params=
+comment2.target=void\ print()
+comment2.text=\n\ Print\ the\ windfarm\ data\ to\ the\ output\ terminal.\n
+comment3.params=
+comment3.target=double\ getCapacity()
+comment3.text=\n\ getPower\ method\n\n
+comment4.params=
+comment4.target=void\ printf()
+comment4.text=\n\ formatedPrint\n\n\ call\ this\ method\ when\ you\ need\ to\ print\ foramted\ farm\ data\n
+numComments=5
